@@ -1,0 +1,45 @@
+[MENU_APPLICATION_LOAD_START][BlueColor]
+**********************************************************************
+*                                                                    * 
+*               Health Scheduling App for the Homeless               * 
+*                                                                    *
+*    1    Homeless Profile Management                                *
+*    2    Doctor Profile Management                                  *
+*    3    Medical Appointment Management                             * 
+*    4    Homeless Medical Service Report                            *
+*    5    Exit                                                       *
+*                                                                    *
+**********************************************************************
+[ColorEnd][MENU_APPLICATION_LOAD_END]
+
+[MENU_HOMELESS_START]=============================================
+ [BlueColor]Homeless Profiles[ColorEnd]
+
+    1 Search for a homeless person
+    2 Add a homeless person 
+    3 Back to main menu
+==============================================[MENU_HOMELESS_END]
+
+[MENU_DOCTOR_START]=============================================
+ [BlueColor]Doctor Profiles[ColorEnd]
+
+    1 Search for a doctor
+    2 Add a doctor
+    3 Back to main menu
+ ==============================================[MENU_DOCTOR_END]
+
+[MENU_SCHEDULE_START]=============================================
+ [BlueColor]Scheduling Appointments[ColorEnd]
+
+    1 Book an appointment
+    2 Change an appointment
+    3 Cancel an appointment
+    4 Back to main menu
+ ==============================================[MENU_SCHEDULE_END]
+
+[MENU_SUMMARY_START]=============================================
+ [BlueColor]Medical Service Report[ColorEnd]
+
+    1 Homeless medical appointments by category
+    2 Back to main menu 
+ ==============================================[MENU_SUMMARY_END]
